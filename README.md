@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bianca-Maria Cionte
 - 👀 I’m interested in computer science and mathematics
-- 🌱 I’m currently in the 2nd year at The Faculty of Mathematics and Informatics - UBB
+- 🌱 I’m currently in the 3rd year at The Faculty of Mathematics and Informatics - UBB
 - 📫 How to reach me: cionte.bianca@gmail.com bianca.cionte@stud.ubbcluj.ro
 
 <!---
